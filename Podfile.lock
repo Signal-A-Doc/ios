@@ -1,0 +1,28 @@
+PODS:
+  - AdvancedPageControl (0.1.1)
+  - FSCalendar (2.8.1)
+  - IQKeyboardManagerSwift (6.5.4)
+  - SkyFloatingLabelTextField (3.8.0)
+
+DEPENDENCIES:
+  - AdvancedPageControl
+  - FSCalendar
+  - IQKeyboardManagerSwift
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - AdvancedPageControl
+    - FSCalendar
+    - IQKeyboardManagerSwift
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  AdvancedPageControl: e65c54699abb3f49d2270486812735429d0b3875
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+
+PODFILE CHECKSUM: 54bce9a84feae833e84a0f8601392ec7681437fd
+
+COCOAPODS: 1.8.3
